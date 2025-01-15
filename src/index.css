@@ -1,0 +1,157 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+#app{
+  height: 100vh;
+  width: 100vw;
+  background-color: rgb(89, 52, 99);
+  
+  
+}
+#topbar{
+  height: 15vh;
+  width: 100vw;
+  background-color: black;
+  color: aqua;
+  display: flex;
+  justify-content: space-around;
+}
+#rightsidebar{
+  height: 80vh;
+  width: 20vw;
+  background-color: black;
+  color: aqua;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+/* *{
+  padding: 0;
+  margin: 0;
+  background-color: blue;
+  display: flex;
+} */
+
+/* #navtag{
+  height: 10vh;
+  width: 160%;
+  background-color: rgb(228, 238, 238);
+  border: 1px solid black;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+#sec{
+  height: 60vh;
+  width: 160%;
+  border: 1px solid black;
+  background-color: chartreuse;
+  display: flex;
+  
+}
+#sec1{
+  width: 33%;
+  background-color: rgb(223, 220, 219);
+   border-bottom: 1px solid black;
+}
+#sec2
+{
+  width: 33%;
+  background-color: chocolate;
+  background-image: url("./assets/images.jpeg") ;
+   border-bottom: 1px solid black;
+
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+
+}
+
+#sce3{
+  width: 34%;
+  background-color: blue;
+   border-bottom: 1px solid black;
+}
+#sec11{
+  height: 40%;
+  width: 100%;
+  border-bottom: 1px solid black;
+
+}
+#sec12
+{
+  text-align: center;
+  font-size: 30px;
+  height: 60%;
+  width: 100%;
+  border-bottom: 1px solid black;
+
+}
+#sec31
+{
+  height: 33.33%;
+  width: 100%;
+  background-color: aqua;
+   border-bottom: 1px solid black;
+}
+#sec32
+{
+  height: 33.33%;
+  width: 100%;
+  background-color:orange;
+   border-bottom: 1px solid black;
+}
+#sec33
+{
+  height: 33.33%;
+  width: 100%;
+  background-color:gray;
+   border-bottom: 1px solid black;
+}
+
+#table{
+  height: 650px;
+  width: 150%;
+  background-color: blue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+ */
+
+
+/* #navbar{
+  height: 15vh;
+  width: 100%;
+  background-color:black;
+  color: aqua;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+#home{
+  height: 60vh;
+  width: 100%;
+  display: flex;
+}
+#homemain{
+  height: 100%;
+  width: 30%;
+  background-color: rgb(66, 64, 64);
+  color: aqua;
+}
+#homeaside{
+  height: 100%;
+  width: 70%;
+  background-color: rgb(10, 14, 36);
+  color: aqua;
+}
+#footer{
+  height: 20vh;
+  width: 100%;
+  background-color: rgb(23, 2, 43);
+  color: aqua;
+} */
+

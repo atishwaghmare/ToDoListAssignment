@@ -1,0 +1,140 @@
+
+
+/* #root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+} */
+ 
+  /* .app {
+    display: "flex",
+    height: "100vh"
+  }
+  sidebar: {
+    width: "25%",
+    backgroundColor: "#f8f9fa",
+    padding: "20px",
+    display: "flex",
+    flexDirection: "column",
+    alignItems: "center",
+  },
+  profile: {
+    textAlign: "center",
+  },
+  profilePic: {
+    width: "100px",
+    height: "100px",
+    borderRadius: "50%",
+  },
+  menu: {
+    listStyle: "none",
+    padding: "0",
+    margin: "20px 0",
+    width: "100%",
+  },
+  menuItem: {
+    padding: "10px 20px",
+    margin: "5px 0",
+    cursor: "pointer",
+    borderRadius: "5px",
+    textAlign: "center",
+  },
+  activeMenuItem: {
+    backgroundColor: "#36a2eb",
+    color: "white",
+  },
+  chartContainer: {
+    marginTop: "20px",
+    width: "100%",
+    textAlign: "center",
+  },
+  chart: {
+    position: "relative",
+    width: "100px",
+    height: "100px",
+    borderRadius: "50%",
+    background: `conic-gradient(#36a2eb ${completedPercentage}%, #e0e0e0 ${completedPercentage}%)`,
+  },
+  chartText: {
+    position: "absolute",
+    top: "50%",
+    left: "50%",
+    transform: "translate(-50%, -50%)",
+    fontWeight: "bold",
+  },
+  taskList: {
+    flex: "1",
+    padding: "20px",
+  },
+  addTask: {
+    display: "flex",
+    alignItems: "center",
+    marginBottom: "20px",
+  },
+  input: {
+    flex: "1",
+    padding: "10px",
+    marginRight: "10px",
+    border: "1px solid #ccc",
+    borderRadius: "5px",
+  },
+  button: {
+    padding: "10px 20px",
+    backgroundColor: "#36a2eb",
+    color: "white",
+    border: "none",
+    borderRadius: "5px",
+    cursor: "pointer",
+  },
+  task: {
+    display: "flex",
+    alignItems: "center",
+    margin: "10px 0",
+  },
+  completedTask: {
+    textDecoration: "line-through",
+    color: "gray",
+  }
+  important: {
+    marginLeft: "auto",
+    color: "gold",
+    cursor: "pointer",
+  } */
+
